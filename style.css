@@ -1,6 +1,6 @@
 body{
         /** add fonts & Scaling **/
-        color: blue;
+        font-family: 'Comic Sans MS', sans-serif; 
 }
 
 p{
@@ -8,7 +8,7 @@ color: red;
 }
 
 h1{
-
+color: blue;
 }
 
 h2{
@@ -16,6 +16,7 @@ h2{
 }
 
 .header{
+    font-stretch: 1% 500%;
 
 }
 
